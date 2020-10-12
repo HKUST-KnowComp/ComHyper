@@ -1,4 +1,6 @@
-ComHyper
+# ComHyper [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 
 Code for EMNLP'20 paper "When Hearst Is not Enough: Improving Hypernymy Detection from Corpus with Distributional Models"
 
@@ -41,7 +43,7 @@ The same evaluation scripts work for all settings.  For reproducing the results,
 python evaluation/evaluation_all_context.py ../config/context.cfg 
 ```
 
-Note that we choose not to report the `BERT` encoder results in our orginial paper due to efficiency but release the relevant codes for incoroporating effective pre-trained contextualized encoders to further improve the performance. Welcome to PR ! 
+Note that we choose not to report the `BERT` encoder results in our orginial paper due to efficiency but release the relevant codes for incoroporating effective pre-trained contextualized encoders to further improve the performance. Welcome to PR or contact cyuaq # cse.ust.hk  ! 
 
 
 
