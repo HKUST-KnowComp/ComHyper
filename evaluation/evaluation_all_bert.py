@@ -11,7 +11,6 @@ import torch.optim as optim
 import numpy as np
 import configparser
 from model.models import *
-from model.models import OovRegression
 from utils.data_helper_4bert import Dataset
 from utils.loader import Testdataset
 from scipy import stats
