@@ -2,7 +2,7 @@
 
 
 
-Code for EMNLP'20 paper "When Hearst Is not Enough: Improving Hypernymy Detection from Corpus with Distributional Models"
+Code for EMNLP'20 paper "When Hearst Is not Enough: Improving Hypernymy Detection from Corpus with Distributional Models" ([arXiv](https://arxiv.org/abs/2010.04941v1))
 
 
 
@@ -46,7 +46,6 @@ python evaluation/evaluation_all_context.py ../config/context.cfg
 Note that we choose not to report the `BERT` encoder results in our orginial paper due to efficiency but release the relevant codes for incoroporating effective pre-trained contextualized encoders to further improve the performance. Welcome to PR or contact cyuaq # cse.ust.hk  ! 
 
 
-
 ## Citation
 
 Please cite the following paper if you found our method helpful. Thanks !
@@ -60,4 +59,6 @@ Please cite the following paper if you found our method helpful. Thanks !
    year = {2020}
 }
 ```
+
+
 
