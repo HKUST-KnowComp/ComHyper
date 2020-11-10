@@ -51,14 +51,17 @@ Note that we choose not to report the `BERT` encoder results in our orginial pap
 Please cite the following paper if you found our method helpful. Thanks !
 
 ```latex
-@inproceedings{yu2020-comhyper,
-   author = {Yu, Changlong and Han, Jialong and Wang, Peifeng and Song, Yangqiu and Zhang, Hongming and Ng, Wilfred and Shi, Shuming},
-   booktitle = {Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
-   month = {Novemeber},
-   title = {When Hearst Is not Enough: Improving Hypernymy Detection from Corpus with Distributional Models},
-   year = {2020}
+@inproceedings{yu-etal-2020-hearst,
+    title = "When Hearst Is Not Enough: Improving Hypernymy Detection from Corpus with Distributional Models",
+    author = "Yu, Changlong  and Han, Jialong  and Wang, Peifeng  and Song, Yangqiu  and Zhang, Hongming  and Ng, Wilfred  and Shi, Shuming",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.emnlp-main.502",
+    pages = "6208--6217",
 }
-```
 
 
 
